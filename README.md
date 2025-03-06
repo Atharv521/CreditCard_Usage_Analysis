@@ -1,6 +1,23 @@
 # CreditCard_Usage_Analysis
 A data visualization project using Power BI, Excel &amp; SQL to analyze customer spending patterns and credit card usage trends.
 
+## 📑 Table of Contents
+
+1. [Project Overview](#project-overview)
+2. [Dataset Description](#dataset-description)
+3. [Data Processing](#data-processing)
+   1. [SQL Method](#sql-method)
+   2. [Direct Import in Power BI](#direct-import-in-power-bi)
+4. [Insights from the Dashboard](#insights-from-the-dashboard)
+   1. [Customer Insights Report](#customer-insights-report)
+   2. [Credit Card Transaction Report](#credit-card-transaction-report)
+5. [Project Structure](#project-structure)
+6. [Acknowledgement](#acknowledgement)
+7. [Technologies Used](#technologies-used)
+8. [How to Use This Project](#how-to-use-this-project)
+
+---
+
 # Credit Card Analysis & Customer Insights - Power BI Dashboard  
 
 ## 📌 Project Overview  
@@ -45,6 +62,18 @@ The data was prepared in two ways:
 - Male customers are contributing more in revenue 30M, female 25M
 - Overall Activation rate is 57.5%
 - Overall Delinquent rate is 6.06%
+
+## 📁 Project Structure 
+
+* The project structure is as follows:
+  
+- **sql_queries/load_data.sql**: Contains SQL queries that load data from CSV files into the database.
+- **data/credit_card.csv**: A CSV file containing the credit card data.
+- **data/customer.csv**: A CSV file containing the customer data.
+
+ 
+
+
 
 ## 🤝 Acknowledgement 
 * This project was inspired by similar Data Anaylysis case study, Thanks to the open-source community for resources and guidance. 
