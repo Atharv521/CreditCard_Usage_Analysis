@@ -58,4 +58,4 @@ The data was prepared in two ways:
 ## 🚀 How to Use This Project  
 1. Clone this repository:  
    ```sh
-   git clone https://github.com/your-username/CreditCard_Analytics_PowerBI.git
+   https://github.com/Atharv521/CreditCard_Usage_Analysis.git
