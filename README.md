@@ -50,7 +50,7 @@ The data was prepared in two ways:
 * This project was inspired by similar Data Anaylysis case study, Thanks to the open-source community for resources and guidance. 
 
 ## 🛠️ Technologies Used  
-* **SQL** – Database creation, data import, and transformations  
+* **SQL** **(Postgresql)** – Database creation, data import, and transformations  
 * **Power BI** – Data visualization and dashboard creation  
 * **Excel** – Initial data structuring and transformation  
 
